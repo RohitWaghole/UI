@@ -1,0 +1,95 @@
+.card1 {
+    box-sizing: border-box;
+
+    width: 337px;
+    height: 100px;
+    margin-left: 110px;
+    margin-top: -16px;
+    margin-bottom: 18px;
+
+    /* Color/Light/c50 */
+
+    background: #FFFFFF;
+    /* Color/Text/c100(Line Divider) */
+
+    border: 1px solid #E2E7EF;
+    border-radius: 4px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+}
+
+.card2 {
+    box-sizing: border-box;
+
+    width: 337px;
+    height: 100px;
+    margin-left: 460px;
+    margin-top: -117px;
+    margin-bottom: 18px;
+
+    /* Color/Light/c50 */
+
+    background: #FFFFFF;
+    /* Color/Text/c100(Line Divider) */
+
+    border: 1px solid #E2E7EF;
+    border-radius: 4px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+}
+
+.card3 {
+    box-sizing: border-box;
+
+    width: 337px;
+    height: 100px;
+    margin-left: 808px;
+    margin-top: -118.5px;
+    margin-bottom: 18px;
+
+    /* Color/Light/c50 */
+
+    background: #FFFFFF;
+    /* Color/Text/c100(Line Divider) */
+
+    border: 1px solid #E2E7EF;
+    border-radius: 4px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+}
+
+.card4 {
+    box-sizing: border-box;
+
+    width: 339px;
+    height: 100px;
+    margin-left: 1156px;
+    margin-top: -118.5px;
+    margin-bottom: 18px;
+
+    /* Color/Light/c50 */
+
+    background: #FFFFFF;
+    /* Color/Text/c100(Line Divider) */
+
+    border: 1px solid #E2E7EF;
+    border-radius: 4px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+}
